@@ -1,0 +1,129 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box; 
+}
+main{
+    display: flex;
+    justify-content: space-around;
+    height: 800px;
+    width: 1700px;
+   padding: 50px;
+   border-radius: 29px;
+   background-color: white;
+ }
+ body{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #DFE2FF;
+    font-family: "Fredoka", sans-serif;
+}
+img{
+    height: 250px;
+}
+
+.emma{
+ margin-bottom: 80px;
+ padding-left: 65px;
+}
+h3{
+    margin-bottom: 40px;
+    padding-left: 50px;
+}
+
+section{
+    margin-bottom: 60px;
+
+}
+#grace{
+    padding-left: 30px;
+}
+#sec1{
+    padding-left: 90px;
+}
+#me{
+    padding-left: 60px;
+}
+h1{
+    margin-bottom: 40px;
+    padding-left: 60px;
+}
+.down{
+    padding-left: 50px;
+}
+#me3a{
+    padding-left: 90px;
+}
+#me3b{
+    padding-left: 50px;
+}
+.fish{
+    padding-left: 80px;
+}
+#me3c{
+    padding-left: 110px;
+}
+
+#goat{
+    padding-left: 90px;
+}
+#goat2{
+    padding-left: 50px;
+}
+#we{
+    margin-bottom: 80px;
+    padding-left: 40px;
+}
+h2{
+    color: darkgrey;
+}
+h3{
+    color: blue;
+}
+p{
+    color: blue;
+}
+h1{
+    color: blue;
+}
+.sign{
+    background-color: white;
+    color: blue;
+    width: 150px;
+    height: 40px;
+    border-radius: 15%;
+}
+#free{
+    background-color: blue;
+    color: white;
+    width: 150px;
+    height: 40px;
+    border-radius: 15%;
+
+}
+
+button:hover{
+    background-color: crimson;
+    width: 200px;
+}
+
+#free:hover{
+    background-color: crimson;
+    width: 200px;
+}
+
+.vl {
+    border-left: 2px solid black;
+    height: 700px;
+}
+
+main{
+    /* height: 2300px;
+    width: 500px;
+   padding: 50px;
+   border-radius: 29px; */
+   background-color: white;
+}
